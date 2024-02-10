@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) ,url(./964355023c8621887c37e1fcc3c1dc3aa9-koeniggsegg-one1.2x.rhorizontal.w700.webp);
+    width: 100%;
+    height: 100vh;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header-top{
+    height: 70px;
+    background: rgba(39, 39, 188, 0.234);
+    padding: 20px 10px;
+  
+}
+.continer{
+    max-width: 1100px;
+    margin: auto;
+}
+h1{
+    float: left;
+
+    
+}
+
+
+ul li{
+    float: right;
+    list-style: none;
+  
+ 
+}
+.continer #ultra li{
+    text-decoration: none;
+    padding: 10px 20px 10px 10px;
+    color: white;
+}
+.card{
+    margin: 30vh auto;
+    width: 500px;
+    text-align: center;
+    transition: .4s;
+   
+}
+.card:hover{
+    scale: 1.2;
+
+}
+h2{
+    font-size: 40px;
+}
+input {
+    padding: 2px;
+    text-align: center;
+    margin: 10px;
+    width: 220px;
+    box-shadow: 5px 5px 10px rgb(141, 5, 5);
+}
+#ses{
+    padding: 5px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(141, 5, 5);
+    
+}
+#ses:hover{
+    color: red;
+    background: #1569c3;
+ 
+
+}
+#dad:hover{
+    color: red;
+    background: #1569c3;
+
+}
+#dad{
+    padding: 5px 20px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 10px rgb(141, 5, 5);
+    border-radius: 10px;
+}
+
